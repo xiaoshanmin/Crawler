@@ -1,0 +1,11 @@
+github设置过程
+
+ssh -keygen -t rsa -C "1767331231@qq.com"
+
+git config --global user.name "xiaoshanmin"
+git config --global user.email "1767331231@qq.com"
+
+git remote add origin git@github.com:xiaoshanmin/https://github.com/xiaoshanmin/Crawler.git
+常用命令：
+git add test.txt
+git commit -m "cc"
